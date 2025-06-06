@@ -61,3 +61,7 @@ Este repositório é parte do meu processo de estudo para a certificação PCEP.
 
 
 
+📄 Consulte também a [documentação completa de snippets com explicações](snippets_completo.md)
+
+
+
