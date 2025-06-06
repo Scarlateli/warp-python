@@ -56,7 +56,7 @@ Foi escolhida uma configuração manual e leve para entender melhor a estrutura 
 Sobre
 Este repositório é parte do meu processo de estudo para a certificação PCEP. Nele compartilho o setup usado e minha rotina de aprendizado com Python no macOS.
 
-📄 Consulte também a [documentação completa de snippets com explicações](snippets_completo.md)
+
 
 
 
